@@ -1,0 +1,12 @@
+{
+    "dataset_dir": "C:\Users\giulo\Documents\Sit_posture_recognition\Dataset_posture_U1to15",
+    "num_epochs": 100,
+    "learning_rate": 0.0001,
+    "l_reg": 0.005,
+    "blur_pct": 0.1,
+    "median_pct": 0.3,
+    "verbosity": 3,
+    "displacement_pct": 0.3,
+    "patience": 10,
+    "data_aug": true
+}
